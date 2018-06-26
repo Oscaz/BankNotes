@@ -1,0 +1,10 @@
+name: BankNotes
+author: Oscazz
+version: 1.0.0
+main: ninja.oscz.banknotes.Main
+depend: [Vault]
+
+commands:
+  withdraw:
+    aliases: [wthd, wdraw, withd]
+    description: Banknotes withdraw command
